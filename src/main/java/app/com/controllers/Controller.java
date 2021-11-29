@@ -1,4 +1,4 @@
-package app.com.controller;
+package app.com.controllers;
 
 import app.com.dao.DataModel;
 import org.springframework.web.bind.annotation.*;
